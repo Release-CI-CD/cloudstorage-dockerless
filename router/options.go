@@ -6,6 +6,7 @@ import (
 	"github.com/micro/go-micro/registry"
 )
 
+
 type Options struct {
 	Namespace string
 	Handler   api.Handler
