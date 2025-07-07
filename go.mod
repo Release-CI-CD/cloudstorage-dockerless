@@ -2,7 +2,7 @@ module github.com/comfforts/cloudstorage
 
 go 1.19
 
-require (
+require ( 
 	cloud.google.com/go/storage v1.28.1
 	github.com/comfforts/errors v0.1.1
 	github.com/comfforts/logger v0.1.1 
