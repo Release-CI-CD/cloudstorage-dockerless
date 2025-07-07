@@ -5,7 +5,7 @@ go 1.19
 require ( 
 	cloud.google.com/go/storage v1.28.1
 	github.com/comfforts/errors v0.1.1
-	github.com/comfforts/logger v0.1.1 
+	github.com/comfforts/logger v0.1.1  
 	github.com/stretchr/testify v1.8.1
 	go.uber.org/zap v1.24.0
 	google.golang.org/api v0.107.0
