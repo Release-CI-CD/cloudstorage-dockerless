@@ -22,7 +22,7 @@ func TestEncoding(t *testing.T) {
 		// no data to compare, return true
 		if len(expect) == 0 && len(got) == 0 {
 			return true
-		}
+		} 
 		// no data expected but got some return false
 		if len(expect) == 0 && len(got) > 0 {
 			return false
