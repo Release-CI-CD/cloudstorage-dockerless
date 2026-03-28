@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings" 
 
-	"github.com/micro/go-micro/registry" 
+	"github.com/micro/go-micro/registry"  
 	"github.com/micro/go-micro/server"
 )
 
