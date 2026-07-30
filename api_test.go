@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 )
-
+ 
 func TestEncoding(t *testing.T) {
 	testData := []*Endpoint{
 		nil,
