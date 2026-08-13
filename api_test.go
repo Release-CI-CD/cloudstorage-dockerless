@@ -7,7 +7,7 @@ import (
  
 func TestEncoding(t *testing.T) {
 	testData := []*Endpoint{
-		nil,
+		nil, 
 		{
 			Name:        "Foo.Bar",
 			Description: "A test endpoint",
